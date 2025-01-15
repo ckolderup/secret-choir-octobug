@@ -6,7 +6,7 @@ module.exports = {
   language: "en",
   description: "A music blog, built with Octobug",
   author: {
-    name: "Casey Kolderup",
+    name: "Casey K",
     email: "casey@kolderup.org",
     url: "https://casey.kolderup.org",
   },
