@@ -4,10 +4,21 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-01-15T05:50:12Z</updated>
+	<updated>2025-01-15T05:57:41Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey Kolderup</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Second First Post</title>
+			<link href="https://secretchoir.com/post/1736920626083/"/>
+			<updated>2025-01-15T05:57:06Z</updated>
+			<id>https://secretchoir.com/post/1736920626083/</id>
+			<content type="html"><![CDATA[<div>
+				<p>let's try that again</p>
+
+			</div>]]></content>
+		</entry>
 </feed>
