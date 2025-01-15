@@ -1,0 +1,14 @@
+{
+	"version": "https://jsonfeed.org/version/1.1",
+	"title": "Secret Choir",
+	"language": "en",
+	"home_page_url": "https://secretchoir.com/",
+	"feed_url": "https://secretchoir.com/feed/feed.json",
+	"description": "A music blog, built with Octobug",
+	"author": {
+		"name": "Casey Kolderup",
+		"url": "https://casey.kolderup.org"
+	},
+	"items": [
+]
+}

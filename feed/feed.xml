@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
+	<title>Secret Choir</title>
+	<subtitle>A music blog, built with Octobug</subtitle>
+	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
+	<link href="https://secretchoir.com/"/>
+	<updated>2025-01-15T02:23:22Z</updated>
+	<id>https://secretchoir.com/</id>
+	<author>
+		<name>Casey Kolderup</name>
+		<email>casey@kolderup.org</email>
+	</author>
+</feed>
