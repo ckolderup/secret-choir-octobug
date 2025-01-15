@@ -3,7 +3,7 @@ import { Octokit } from "https://esm.sh/@octokit/core";
 
 window.octokit = null;
 
-function authorize() {
+export function authorize() {
   const privateKey = localStorage.getItem("githubPrivateKey");
 
   if (!!privateKey) {
