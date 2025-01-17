@@ -4,12 +4,27 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-01-15T08:03:59Z</updated>
+	<updated>2025-01-17T06:54:38Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1737096845064/"/>
+			<updated>2025-01-17T06:54:05Z</updated>
+			<id>https://secretchoir.com/post/1737096845064/</id>
+			<content type="html"><![CDATA[<div>
+				<p>just thinking about how if we got new music from both sadurn and cartalk this year that'd pretty much be all I need</p>
+
+					<p>Tagged:
+							<a href="/tags/sadurn/">#sadurn</a>, 
+							<a href="/tags/cartalk/">#cartalk</a>
+					</p>
+			</div>]]></content>
+		</entry>
 		
 		<entry>
 			<title>2024 You Could Make a Case For: Durante - _Enter_</title>
