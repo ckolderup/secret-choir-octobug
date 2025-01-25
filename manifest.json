@@ -1,15 +1,10 @@
 {
-    "short_name": "SecretChoir",
+    "short_name": "{SC}",
     "name": "Secret Choir",
     "description": "A music blog, built on eleventy",
     "icons": [
       {
-        "src": "small_logo.png",
-        "type": "image/svg+xml",
-        "sizes": "192x192 512x512"
-      },
-      {
-        "src": "logo.png",
+        "src": "/img/apple-touch-icon.png",
         "type": "image/png",
         "sizes": "512x512"
       }
