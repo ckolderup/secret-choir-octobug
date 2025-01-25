@@ -4,12 +4,27 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-01-24T03:44:24Z</updated>
+	<updated>2025-01-25T08:25:32Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1737793501006/"/>
+			<updated>2025-01-25T08:25:01Z</updated>
+			<id>https://secretchoir.com/post/1737793501006/</id>
+			<content type="html"><![CDATA[<div>
+				<p>bards will be like "so baby listen carefully / while I sing my combat song"</p>
+
+					<p>Tagged:
+							<a href="/tags/mark-morrison/">#mark morrison</a>, 
+							<a href="/tags/weird-ones/">#weird ones</a>
+					</p>
+			</div>]]></content>
+		</entry>
 		
 		<entry>
 			<title>2024 Safe Bets: Armlock - _Seashell Angel Lucky Charm_ </title>
