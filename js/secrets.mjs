@@ -1,4 +1,4 @@
-import { authorize } from "./logged-in-utils";
+import { authorize } from "./logged-in-utils.mjs";
 
 window.currentPost = {};
 
