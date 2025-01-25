@@ -11,9 +11,9 @@ module.exports = {
     url: "https://casey.kolderup.org",
   },
   images: {
-    favicon: "",
-    apple_touch_icon: "",
-    header_logo: "",
-    profile_pic: "",
+    favicon: "/img/favicon.png",
+    apple_touch_icon: "/img/secret-choir-large.png",
+    header_logo: "/img/secret-choir-large-transparent.png",
+    profile_pic: "/img/secret-choir-large.png",
   },
 };

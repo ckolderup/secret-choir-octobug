@@ -13,12 +13,12 @@
                 </a>
             </div>
             <data class="p-url" value="{{metadata.url}}"></data>
-            <data class="p-logo" value="{{metadata.images.header_logo}}"></data>
+            <data class="p-logo" value="{{metadata.images.profile_pic}}"></data>
         </div>
     </div>
 
     <h1 class="title p-name">
-        <a href={{item.url}}>{{item.data.title | decode }}</a>
+        <a href={{item.url}}>{{item.data.title | decode | markdown | safe}}</a>
     </h1>
 
     <div class="postbody e-content">{{item.content | safe }}</div>

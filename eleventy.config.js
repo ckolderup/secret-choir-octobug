@@ -217,6 +217,11 @@ module.exports = async function (eleventyConfig) {
   })
     .enable(["newline"])
     .disable("code");
+
+  eleventyConfig.addFilter("markdown", (text) => {
+    return mdLib.render(text);
+  });
+
   eleventyConfig.setLibrary("md", {
     render: (content) => {
       return he.decode(mdLib.render(he.decode(content || "")));
