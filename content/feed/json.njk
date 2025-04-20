@@ -23,7 +23,7 @@ eleventyImport:
 			"id": "{{ absolutePostUrl }}",
 			"url": "{{ absolutePostUrl }}",
 			"title": "{{ post.data.title | decode if post.data.title else "Untitled Post" }}",
-			"content_html": {% if post.templateContent %}{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) | dump | safe }}
+			"content_html": {% if post.templateContent %}{{ post.templateContent | transformWithHtmlBase(absolutePostUrl, post.url) | safe }}
 	{% else %}""{% endif %},
 			"tags": [
 				{%- for tag in post.data.tags | filterTagList %}
