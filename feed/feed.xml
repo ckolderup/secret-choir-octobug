@@ -4,12 +4,29 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-04-20T05:02:25Z</updated>
+	<updated>2025-04-23T06:46:48Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>(losing on pop culture jeopardy)</title>
+			<link href="https://secretchoir.com/post/1745390769165/"/>
+			<updated>2025-04-23T06:46:09Z</updated>
+			<id>https://secretchoir.com/post/1745390769165/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>what is "there exists a tunnel under ocean boulevard"?</p>
+
+					<p>Tagged:
+							<a href="/tags/lana-del-rey/">#lana del rey</a>, 
+							<a href="/tags/pop-culture-jeopardy/">#pop culture jeopardy</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>2024 Safe Bets: Charli XCX - _Brat_</title>
