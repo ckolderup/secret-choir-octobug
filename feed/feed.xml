@@ -4,12 +4,30 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-04-26T07:01:53Z</updated>
+	<updated>2025-04-27T07:03:59Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>mos def on mf doom</title>
+			<link href="https://secretchoir.com/post/1745737412819/"/>
+			<updated>2025-04-27T07:03:32Z</updated>
+			<id>https://secretchoir.com/post/1745737412819/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>this is one of the canonical youtube videos btw</p>
+<p><a href="https://www.youtube.com/watch?v=zTBIvIDnnv8">https://www.youtube.com/watch?v=zTBIvIDnnv8</a></p>
+
+					<p>Tagged:
+							<a href="/tags/mos-def/">#mos def</a>, 
+							<a href="/tags/mf-doom/">#mf doom</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>DJ Sabrina the Teenage DJ - &quot;In Silence&quot;</title>
