@@ -4,12 +4,25 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-04-27T07:03:59Z</updated>
+	<updated>2025-05-09T06:17:58Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>VEVO.REPACK</title>
+			<link href="https://secretchoir.com/post/1746771450200/"/>
+			<updated>2025-05-09T06:17:30Z</updated>
+			<id>https://secretchoir.com/post/1746771450200/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>if you were reasonably certain that you could hear a misprogrammed snare in a song that has 500k views on YouTube by an artist with 600k monthly listeners that is generally fun but obviously (as a result of the snare) now is unlistenable, would you try and contact someone in the song's production team to issue a corrected version on streaming services or do you live a normal, happy life</p>
+
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>mos def on mf doom</title>
