@@ -4,7 +4,7 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-05-09T06:17:58Z</updated>
+	<updated>2025-05-15T02:54:10Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
@@ -49,7 +49,7 @@
 			<id>https://secretchoir.com/post/1745650887371/</id>
 			<content type="html">
 				<![CDATA[<div>
-				<iframe width="1134" height="646" src="https://www.youtube.com/embed/CAxEJAwseeA" title="DJ Sabrina The Teenage DJ - In Silence (Official Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+				<p><a href="https://www.youtube.com/watch?v=CAxEJAwseeA">https://www.youtube.com/watch?v=CAxEJAwseeA</a></p>
 
 					<p>Tagged:
 							<a href="/tags/dj-sabrina-the-teenage-dj/">#dj sabrina the teenage dj</a>
