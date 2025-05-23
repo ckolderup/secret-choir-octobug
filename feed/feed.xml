@@ -4,12 +4,30 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-05-15T02:54:10Z</updated>
+	<updated>2025-05-23T06:10:10Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1747980576210/"/>
+			<updated>2025-05-23T06:09:36Z</updated>
+			<id>https://secretchoir.com/post/1747980576210/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>workshopping a karaoke bit where I sing the lyrics to TMBG's "Pet Name" over Fiona Apple's "Criminal" instrumental but the lyrical structure needs a complete rework :(</p>
+
+					<p>Tagged:
+							<a href="/tags/they-might-be-giants/">#they might be giants</a>, 
+							<a href="/tags/fiona-apple/">#fiona apple</a>, 
+							<a href="/tags/karaoke/">#karaoke</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>VEVO.REPACK</title>
