@@ -4,12 +4,30 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-05-23T06:10:10Z</updated>
+	<updated>2025-06-13T07:56:41Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Alvvays - &quot;Pharmacist&quot;</title>
+			<link href="https://secretchoir.com/post/1749801371465/"/>
+			<updated>2025-06-13T07:56:11Z</updated>
+			<id>https://secretchoir.com/post/1749801371465/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p><a href="https://alvvays.bandcamp.com/track/pharmacist">https://alvvays.bandcamp.com/track/pharmacist</a></p>
+
+					<p>Tagged:
+							<a href="/tags/alvvays/">#alvvays</a>, 
+							<a href="/tags/epic-drops/">#epic drops</a>, 
+							<a href="/tags/2022/">#2022</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>
