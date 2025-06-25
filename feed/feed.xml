@@ -4,12 +4,29 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-06-13T07:56:41Z</updated>
+	<updated>2025-06-25T17:07:34Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Aesop Rock - Black Hole Superette</title>
+			<link href="https://secretchoir.com/post/1750871224777/"/>
+			<updated>2025-06-25T17:07:04Z</updated>
+			<id>https://secretchoir.com/post/1750871224777/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p><a href="https://aesoprock.bandcamp.com/album/black-hole-superette">https://aesoprock.bandcamp.com/album/black-hole-superette</a></p>
+<p>awfully bold of Aesop Rock to make a bodega-themed album from a city with maybe the worst bodega culture in all of America’s major cities (Portland)</p>
+
+					<p>Tagged:
+							<a href="/tags/aesop-rock/">#aesop rock</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Alvvays - &quot;Pharmacist&quot;</title>
