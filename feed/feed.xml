@@ -4,12 +4,29 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-07-09T07:06:34Z</updated>
+	<updated>2025-07-10T07:12:20Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Geese - &quot;Taxes&quot;</title>
+			<link href="https://secretchoir.com/post/1752131540762/"/>
+			<updated>2025-07-10T07:12:20Z</updated>
+			<id>https://secretchoir.com/post/1752131540762/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p><a href="https://www.youtube.com/watch?v=fV5BBjOUw_c">https://www.youtube.com/watch?v=fV5BBjOUw_c</a></p>
+<p>Listened a few times last night, then again tonight... I'm ready to declare this new Geese song something special</p>
+
+					<p>Tagged:
+							<a href="/tags/geese/">#geese</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>
