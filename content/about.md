@@ -1,8 +1,7 @@
 ---
 layout: "layouts/page.njk"
 title: "About"
-date: "Git created"
-timestamp: 1736906548314
+date: "2025-01-15T02:02:28Z"
 author: "Casey Kolderup"
 eleventyExcludeFromCollections: true
 ---

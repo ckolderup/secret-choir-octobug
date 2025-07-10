@@ -22,7 +22,7 @@ eleventyImport:
 		<entry>
 			<title>{{ post.data.title | decode if post.data.title else "Untitled post" }}</title>
 			<link href="{{ absolutePostUrl }}"/>
-			<updated>{{ post.data.timestamp | unixTimestampToIsoDate }}</updated>
+			<updated>{{ post.data.date }}</updated>
 			<id>{{ absolutePostUrl }}</id>
 			<content type="html">
 				<![CDATA[<div>
