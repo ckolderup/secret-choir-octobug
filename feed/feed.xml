@@ -4,12 +4,28 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-07-10T07:12:20Z</updated>
+	<updated>2025-07-10T07:38:04Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1752133084686/"/>
+			<updated>2025-07-10T07:38:04Z</updated>
+			<id>https://secretchoir.com/post/1752133084686/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>part of what makes Hot Chip great is that when you look at them you're like "yeah that could be a guy I know". You get the sense that any member of Hot Chip could, instead of making great indie dance music, contribute to a popular open-source project or be really good at quoting Futurama episodes</p>
+
+					<p>Tagged:
+							<a href="/tags/hot-chip/">#hot chip</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Geese - &quot;Taxes&quot;</title>
