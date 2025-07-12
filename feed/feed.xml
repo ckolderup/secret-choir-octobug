@@ -4,12 +4,31 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-07-10T07:38:04Z</updated>
+	<updated>2025-07-12T08:22:06Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1752308526182/"/>
+			<updated>2025-07-12T08:22:06Z</updated>
+			<id>https://secretchoir.com/post/1752308526182/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p><a href="https://www.youtube.com/watch?v=fusIZJwzgqE">https://www.youtube.com/watch?v=fusIZJwzgqE</a></p>
+
+					<p>Tagged:
+							<a href="/tags/mashups/">#mashups</a>, 
+							<a href="/tags/rihanna/">#rihanna</a>, 
+							<a href="/tags/edward-maya/">#edward maya</a>, 
+							<a href="/tags/vika-jigaluna/">#vika jigaluna</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>
