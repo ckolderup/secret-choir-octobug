@@ -4,12 +4,30 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-07-12T08:22:06Z</updated>
+	<updated>2025-07-18T06:23:29Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1752819809122/"/>
+			<updated>2025-07-18T06:23:29Z</updated>
+			<id>https://secretchoir.com/post/1752819809122/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>Neil Cicierega dropped a "Bustin"-like yesterday and imo it's the song of the summer</p>
+<p><a href="https://youtube.com/watch?v=2AqY7fMJjqU">https://youtube.com/watch?v=2AqY7fMJjqU</a></p>
+
+					<p>Tagged:
+							<a href="/tags/neil-cicierega/">#neil cicierega</a>, 
+							<a href="/tags/john-mayer/">#john mayer</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>
