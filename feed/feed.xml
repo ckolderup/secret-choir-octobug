@@ -4,12 +4,32 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-07-25T07:34:41Z</updated>
+	<updated>2025-07-31T07:12:31Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1753945951295/"/>
+			<updated>2025-07-31T07:12:31Z</updated>
+			<id>https://secretchoir.com/post/1753945951295/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p><a href="https://youtube.com/watch?v=qB7kLilZWwg">https://youtube.com/watch?v=qB7kLilZWwg</a></p>
+<p>I am having complicated feelings about this just-barely-above-mid Latto single that is interpolating Aaliyah's "Are You That Somebody?"</p>
+
+					<p>Tagged:
+							<a href="/tags/aaliyah/">#aaliyah</a>, 
+							<a href="/tags/latto/">#latto</a>, 
+							<a href="/tags/interpolations/">#interpolations</a>, 
+							<a href="/tags/youtube-studies/">#youtube studies</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>The Impossible Kid</title>
