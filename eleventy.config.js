@@ -180,7 +180,7 @@ module.exports = async function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("truncate", (text, words, ellipsis) => {
-    const wordsArray = text.split(" ").filter((token) => {
+    const wordsArray = text.match(/^\n|\S+/gm).filter((token) => {
       return !(
         token.startsWith("<") ||
         token.startsWith(">") ||
@@ -195,7 +195,7 @@ module.exports = async function (eleventyConfig) {
     if (startingText.length == 0) {
       return "(No text)";
     } else {
-      return `${startingText}${ellipsisNeeded ? "…" : ""}`;
+      return `${startingText.trim()}${ellipsisNeeded ? "…" : ""}`;
     }
   });
 

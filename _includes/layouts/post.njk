@@ -1,6 +1,7 @@
 ---
 layout: layouts/base.njk
 ---
+<head>
 {# Only include the syntax highlighter CSS on blog posts #}
 {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
 {%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
@@ -8,6 +9,7 @@ layout: layouts/base.njk
 <meta property="og:title" content="{{metadata.title}}: {{ title | decode }}"/>
 <meta property="og:type" content="article"/>
 <meta property="og:url" content={{ url }}/>
-<meta property="og:description" content="{{ content | stripTags | truncate(196, true) }}">
+<meta property="og:description" content="{{- content | stripTags | truncate(96, true) -}}">
+</head>
 
 {% include "../partials/post.njk" %}
