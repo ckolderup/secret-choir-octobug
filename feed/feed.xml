@@ -4,12 +4,33 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-07-31T07:28:58Z</updated>
+	<updated>2025-08-01T07:51:58Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1754034718313/"/>
+			<updated>2025-08-01T07:51:58Z</updated>
+			<id>https://secretchoir.com/post/1754034718313/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p><a href="https://youtube.com/watch?v=h-VvUPp6BgE">https://youtube.com/watch?v=h-VvUPp6BgE</a></p>
+<p>two things can be true: Pink Pantheress's "Illegal", especially the Nia Archives remix, is possibly the biggest earworm of the summer for me,</p>
+<p><em>and also,</em></p>
+<p>"you're recommended to me by some people" is possibly the most TMBG-ass lyric to make it into a mainstream pop song in quite a while</p>
+
+					<p>Tagged:
+							<a href="/tags/pink-pantheress/">#pink pantheress</a>, 
+							<a href="/tags/nia-archives/">#nia archives</a>, 
+							<a href="/tags/they-might-be-giants/">#they might be giants</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>
