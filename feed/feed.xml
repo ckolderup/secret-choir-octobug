@@ -4,12 +4,31 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-08-06T07:53:51Z</updated>
+	<updated>2025-08-15T07:13:24Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>this is a pretty charming promotional piece</title>
+			<link href="https://secretchoir.com/post/1755242004658/"/>
+			<updated>2025-08-15T07:13:24Z</updated>
+			<id>https://secretchoir.com/post/1755242004658/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p><a href="https://youtube.com/watch?v=EwAXmA8YhIM">https://youtube.com/watch?v=EwAXmA8YhIM</a></p>
+<p>on both the interviewers' and interviewee's side! Great job everyone?</p>
+
+					<p>Tagged:
+							<a href="/tags/ninajirachi/">#ninajirachi</a>, 
+							<a href="/tags/triple-j/">#triple j</a>, 
+							<a href="/tags/coffee-run-interview/">#coffee run interview</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Sudan Archives - &quot;My Type&quot;</title>
