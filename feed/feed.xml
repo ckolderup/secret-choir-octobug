@@ -4,12 +4,30 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-08-15T07:13:24Z</updated>
+	<updated>2025-08-21T07:59:27Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>gabby start &amp; Knapsack - Cagematch</title>
+			<link href="https://secretchoir.com/post/1755763167850/"/>
+			<updated>2025-08-21T07:59:27Z</updated>
+			<id>https://secretchoir.com/post/1755763167850/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3044950528/size=large/bgcol=ffffff/linkcol=e99708/tracklist=false/artwork=small/track=2528209495/transparent=true/" seamless=""><a href="https://bringyourknapsack.bandcamp.com/album/stem">Stem by gabby start, Knapsack</a></iframe>
+<p>hey uhhhhhh this is great</p>
+
+					<p>Tagged:
+							<a href="/tags/gabby-start/">#gabby start</a>, 
+							<a href="/tags/knapsack/">#knapsack</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>this is a pretty charming promotional piece</title>
