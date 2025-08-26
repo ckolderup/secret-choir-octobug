@@ -4,12 +4,28 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-08-21T07:59:27Z</updated>
+	<updated>2025-08-26T05:33:24Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1756186404963/"/>
+			<updated>2025-08-26T05:33:24Z</updated>
+			<id>https://secretchoir.com/post/1756186404963/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>commissioning a thinkpiece about how there's no "where are they now" for the guys who played the musical saw in the wonderwall music video unlike the nirvana baby or the blind melon bee girl and what that means about music criticism's obsession with youth</p>
+
+					<p>Tagged:
+							<a href="/tags/good-ideas/">#good ideas</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>gabby start &amp; Knapsack - Cagematch</title>
