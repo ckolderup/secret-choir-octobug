@@ -4,12 +4,34 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-08-26T05:33:24Z</updated>
+	<updated>2025-08-26T05:41:25Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Lorde - &quot;Virgin&quot; review</title>
+			<link href="https://secretchoir.com/post/1756186885989/"/>
+			<updated>2025-08-26T05:41:25Z</updated>
+			<id>https://secretchoir.com/post/1756186885989/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>I <a href="https://secretchoir.com/post/1737187355122/">wrote, in "2025 wishes"</a>:</p>
+<blockquote>
+<p>new Lorde album (but good this time)</p>
+<p>#lorde #good ideas</p>
+</blockquote>
+<p>almost!</p>
+
+					<p>Tagged:
+							<a href="/tags/good-ideas-ex-post-facto/">#good ideas (ex post facto)</a>, 
+							<a href="/tags/lorde/">#lorde</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>
