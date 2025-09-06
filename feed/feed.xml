@@ -4,12 +4,29 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-09-03T05:22:17Z</updated>
+	<updated>2025-09-06T08:39:23Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1757147963139/"/>
+			<updated>2025-09-06T08:39:23Z</updated>
+			<id>https://secretchoir.com/post/1757147963139/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>I <em>did</em> think we were going to get a Robyn album this year, but at this point it seems unlikely?</p>
+
+					<p>Tagged:
+							<a href="/tags/robyn/">#robyn</a>, 
+							<a href="/tags/2025-predictions/">#2025 predictions</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Teddy Ruppleberry&#39;s &quot;FIRST TIME Hearing Aesop Rock&quot;</title>
