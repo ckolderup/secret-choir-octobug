@@ -4,12 +4,30 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-09-07T07:32:49Z</updated>
+	<updated>2025-09-14T18:15:39Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>MJ Lenderman - “Just Be Simple” (Jason Molina cover)</title>
+			<link href="https://secretchoir.com/post/1757873739671/"/>
+			<updated>2025-09-14T18:15:39Z</updated>
+			<id>https://secretchoir.com/post/1757873739671/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<iframe width="100%" height="150" src="https://odesli.co/embed/?url=https%3A%2F%2Fsong.link%2Fi%2F1814874241&theme=light" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write"></iframe>
+<p>I first learned of MJ Lenderman via people who were comparing him to Jason Molina but, while I do like much of the Lenderman stuff I have heard, I feel like this cover very efficiently demonstrates why I think that is not an apt comparison</p>
+
+					<p>Tagged:
+							<a href="/tags/mj-lenderman/">#mj lenderman</a>, 
+							<a href="/tags/jason-molina/">#jason molina</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>uffie boiler room good</title>
