@@ -4,12 +4,29 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-10-05T06:51:10Z</updated>
+	<updated>2025-10-06T06:17:24Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>(gesturing broadly, in a picard voice)</title>
+			<link href="https://secretchoir.com/post/1759731444586/"/>
+			<updated>2025-10-06T06:17:24Z</updated>
+			<id>https://secretchoir.com/post/1759731444586/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>twitch chatter radstache, asking "is that a ps1 game?", when confronted with the existence of drakeo the ruler and his 2017 album <em>cold devil</em></p>
+<p><img src="https://secretchoir.com/attachments/2025/10/6/05%2011%2014%2003%20PM%20(msedge).png" alt="a cropped screenshot of the open mike eagle livestream where he discusses the pitchfork top 100 rap albums list, at the moment that the events described above occurred"></p>
+
+					<p>Tagged:
+							<a href="/tags/youtube-studies/">#youtube studies</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Velvet Negroni - WINE GREEN (Live Video)</title>
