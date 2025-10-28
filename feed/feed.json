@@ -11,6 +11,28 @@
 	},
 	"items": [
 		{
+			"id": "https://secretchoir.com/post/1761631097938/",
+			"url": "https://secretchoir.com/post/1761631097938/",
+			"title": "Untitled Post",
+			"content_html": <p>KRAMER: the kids have revived indie sleaze, jerry. They're making crystal castles interpolations.<br>
+JERRY: what about Sleepyhead? I miss Sleepyhead! It was a good song! Maybe Passion Pit could just come back and do that again?!?<br>
+KRAMER: (desperate) there's no time to worry about passion pit, Jerry! It's only a matter of time before they find out about lil debbie!</p>
+
+	,
+			"tags": [
+					"indie sleaze"
+					,
+					"crystal castles"
+					,
+					"passion pit"
+					,
+					"lil debbie"
+					
+			],
+			"date_published": "2025-10-28T05:58:17Z"
+		}
+		,
+		{
 			"id": "https://secretchoir.com/post/1759731444586/",
 			"url": "https://secretchoir.com/post/1759731444586/",
 			"title": "(gesturing broadly, in a picard voice)",

@@ -4,12 +4,33 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-10-06T06:17:24Z</updated>
+	<updated>2025-10-28T05:58:17Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1761631097938/"/>
+			<updated>2025-10-28T05:58:17Z</updated>
+			<id>https://secretchoir.com/post/1761631097938/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>KRAMER: the kids have revived indie sleaze, jerry. They're making crystal castles interpolations.<br>
+JERRY: what about Sleepyhead? I miss Sleepyhead! It was a good song! Maybe Passion Pit could just come back and do that again?!?<br>
+KRAMER: (desperate) there's no time to worry about passion pit, Jerry! It's only a matter of time before they find out about lil debbie!</p>
+
+					<p>Tagged:
+							<a href="/tags/indie-sleaze/">#indie sleaze</a>, 
+							<a href="/tags/crystal-castles/">#crystal castles</a>, 
+							<a href="/tags/passion-pit/">#passion pit</a>, 
+							<a href="/tags/lil-debbie/">#lil debbie</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>(gesturing broadly, in a picard voice)</title>
