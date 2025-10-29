@@ -4,12 +4,31 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-10-28T05:58:17Z</updated>
+	<updated>2025-10-29T07:48:28Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1761724108446/"/>
+			<updated>2025-10-29T07:48:28Z</updated>
+			<id>https://secretchoir.com/post/1761724108446/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>my "youtube algo" just went from a straight playthrough of MC Paul Barman's "Paullelujah!" into the Caroline Polachek <em>Desire, I Want To Turn Into You</em>-era Tiny Desk Concert</p>
+
+					<p>Tagged:
+							<a href="/tags/youtube-studies/">#youtube studies</a>, 
+							<a href="/tags/algorithms/">#algorithms</a>, 
+							<a href="/tags/mc-paul-barman/">#mc paul barman</a>, 
+							<a href="/tags/caroline-polachek/">#caroline polachek</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>
