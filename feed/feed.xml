@@ -4,12 +4,28 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-10-29T07:48:28Z</updated>
+	<updated>2025-11-12T08:13:11Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1762935191979/"/>
+			<updated>2025-11-12T08:13:11Z</updated>
+			<id>https://secretchoir.com/post/1762935191979/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>do you ever just sit and think about how talented kelela is</p>
+
+					<p>Tagged:
+							<a href="/tags/kelela/">#kelela</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>
