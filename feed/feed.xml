@@ -4,12 +4,33 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-11-12T08:13:11Z</updated>
+	<updated>2025-11-14T08:56:12Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>this is a &quot;Birdbrain&quot; appreciation post </title>
+			<link href="https://secretchoir.com/post/1763110572560/"/>
+			<updated>2025-11-14T08:56:12Z</updated>
+			<id>https://secretchoir.com/post/1763110572560/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p><a href="https://youtube.com/watch?v=0iVlSNpq8i8">https://youtube.com/watch?v=0iVlSNpq8i8</a></p>
+<p>"Birdbrain" is a song of the year contender, for me, someone who is not at all invested in the vocaloid or larger(?) anime community, except possibly in the most general of senses (is a nerd). Thank you for your consideration</p>
+
+					<p>Tagged:
+							<a href="/tags/song-of-the-year/">#song of the year</a>, 
+							<a href="/tags/2025/">#2025</a>, 
+							<a href="/tags/jamie-paige/">#jamie paige</a>, 
+							<a href="/tags/kasane-teto/">#kasane teto</a>, 
+							<a href="/tags/ok-glass/">#ok glass</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>
