@@ -149,7 +149,13 @@ window.addEventListener("DOMContentLoaded", async () => {
         branch: "main",
       });
 
-      postBodyTextarea.value += `\n![${file.name}](/${encodedFilenameUrl})`;
+      if (file.name.endsWith('.mp4')) {
+        postBodyTextarea.value += `\n<video controls src="${encodedFilenameUrl}"></video>`;
+      } else if (file.name.endsWith('.mp3')) {
+        postBodyTextarea.value += `\n<audio controls src="${encodedFilenameUrl}"></audio>`;
+      } else {
+        postBodyTextarea.value += `\n![${file.name}](/${encodedFilenameUrl})`;
+      }
     }
 
     uploadAttachmentInput.value = "";
