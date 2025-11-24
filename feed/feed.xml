@@ -4,12 +4,32 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-11-19T08:06:29Z</updated>
+	<updated>2025-11-24T08:14:00Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>just try and tell me oklou wouldn&#39;t sing over this </title>
+			<link href="https://secretchoir.com/post/1763972040111/"/>
+			<updated>2025-11-24T08:14:00Z</updated>
+			<id>https://secretchoir.com/post/1763972040111/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p><a href="https://youtube.com/watch?v=ge45RopzQ50">https://youtube.com/watch?v=ge45RopzQ50</a></p>
+
+					<p>Tagged:
+							<a href="/tags/oklou/">#oklou</a>, 
+							<a href="/tags/chrono-cross/">#chrono cross</a>, 
+							<a href="/tags/yasunori-mitsuda/">#yasunori mitsuda</a>, 
+							<a href="/tags/ps1/">#ps1</a>, 
+							<a href="/tags/jrpg/">#jrpg</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>actually hey google?</title>
