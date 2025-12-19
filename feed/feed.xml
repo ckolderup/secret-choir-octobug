@@ -4,12 +4,32 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2025-12-18T06:14:41Z</updated>
+	<updated>2025-12-19T05:37:59Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1766122679714/"/>
+			<updated>2025-12-19T05:37:59Z</updated>
+			<id>https://secretchoir.com/post/1766122679714/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p><a href="https://youtube.com/watch?v=3Og8buUYiyY">https://youtube.com/watch?v=3Og8buUYiyY</a></p>
+<p>one thing that's kinda great about Confidence Man is that they are basically doing the "Planet of the Bass" bit but unironically, and they're incredible</p>
+<p>see also last year's "I Can't Lose You"</p>
+<p><a href="https://youtube.com/watch?v=jYuCk37DSYE">https://youtube.com/watch?v=jYuCk37DSYE</a></p>
+
+					<p>Tagged:
+							<a href="/tags/confidence-man/">#confidence man</a>, 
+							<a href="/tags/kyle-gordon/">#kyle gordon</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>
