@@ -4,12 +4,33 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2026-01-13T18:30:32Z</updated>
+	<updated>2026-01-13T20:52:43Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Dummy - Atonal Poem</title>
+			<link href="https://secretchoir.com/post/1768337563157/"/>
+			<updated>2026-01-13T20:52:43Z</updated>
+			<id>https://secretchoir.com/post/1768337563157/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>I always liked how the end of Dummy's first album <em>Mandatory Enjoyment</em> sounds like it came off the dang Final Fantasy Crystal Chronicles soundtrack</p>
+<p><a href="https://www.youtube.com/watch?v=IxxLcU11dFE">https://www.youtube.com/watch?v=IxxLcU11dFE</a></p>
+<p>for comparison:</p>
+<p><a href="https://www.youtube.com/watch?v=CSa0ZGT7VgM">https://www.youtube.com/watch?v=CSa0ZGT7VgM</a></p>
+
+					<p>Tagged:
+							<a href="/tags/dummy/">#dummy</a>, 
+							<a href="/tags/kumi-tanioka/">#kumi tanioka</a>, 
+							<a href="/tags/final-fantasy-crystal-chronicles/">#final fantasy crystal chronicles</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>2025 wrap-up</title>
