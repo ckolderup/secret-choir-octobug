@@ -1,6 +1,6 @@
 module.exports = {
   title: "Secret Choir",
-  subhed: "What do you mean, 'the American dream?'",
+  subhed: "if y'all are so destitute, how come you're dressed so cute?",
   url: "https://secretchoir.com/",
   webmentions_url: "https://webmention.io/secretchoir.com/webmention",
   language: "en",
