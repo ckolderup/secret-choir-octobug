@@ -4,12 +4,29 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2026-01-17T19:35:14Z</updated>
+	<updated>2026-02-27T08:00:06Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Convening a very special club</title>
+			<link href="https://secretchoir.com/post/1772179206058/"/>
+			<updated>2026-02-27T08:00:06Z</updated>
+			<id>https://secretchoir.com/post/1772179206058/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>it is a club for people who have strong feelings about Adele's "Rolling in the Deep" and "Send My Love (To Your New Lover)" and no other Adele songs. Let me know if you are in this club</p>
+
+					<p>Tagged:
+							<a href="/tags/adele/">#adele</a>, 
+							<a href="/tags/very-special-clubs/">#very special clubs</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>A Special Herbs PSA</title>
