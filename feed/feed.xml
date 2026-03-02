@@ -4,12 +4,29 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2026-02-27T09:13:50Z</updated>
+	<updated>2026-03-02T07:31:16Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>PROC FISKAL MENTIONED</title>
+			<link href="https://secretchoir.com/post/1772436676208/"/>
+			<updated>2026-03-02T07:31:16Z</updated>
+			<id>https://secretchoir.com/post/1772436676208/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p><a href="https://youtube.com/watch?v=DWnVfPBbvLY">https://youtube.com/watch?v=DWnVfPBbvLY</a></p>
+
+					<p>Tagged:
+							<a href="/tags/ag-cook/">#ag cook</a>, 
+							<a href="/tags/proc-fiskal/">#proc fiskal</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>
