@@ -4,12 +4,30 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2026-03-02T07:31:16Z</updated>
+	<updated>2026-03-11T06:52:09Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>a long-held belief</title>
+			<link href="https://secretchoir.com/post/1773211929583/"/>
+			<updated>2026-03-11T06:52:09Z</updated>
+			<id>https://secretchoir.com/post/1773211929583/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>Owen Pallett should record a cover of Taylor Swift's "Never Grow Up"</p>
+
+					<p>Tagged:
+							<a href="/tags/owen-pallett/">#owen pallett</a>, 
+							<a href="/tags/taylor-swift/">#taylor swift</a>, 
+							<a href="/tags/covers-that-should-exist/">#covers that should exist</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>PROC FISKAL MENTIONED</title>
