@@ -4,12 +4,30 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2026-03-21T20:10:44Z</updated>
+	<updated>2026-04-02T02:47:45Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1775098065934/"/>
+			<updated>2026-04-02T02:47:45Z</updated>
+			<id>https://secretchoir.com/post/1775098065934/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>this post should have been on here by the way. I should make that easy to rectify somehow. hmm</p>
+<p><a href="https://bsky.app/profile/maincharacter.today/post/3mhwwi7tgkc2i">https://bsky.app/profile/maincharacter.today/post/3mhwwi7tgkc2i</a></p>
+
+					<p>Tagged:
+							<a href="/tags/robyn/">#robyn</a>, 
+							<a href="/tags/tinashe/">#tinashe</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>here&#39;s 75 minutes of people hanging out and listening to music</title>
