@@ -4,12 +4,30 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2026-04-02T02:47:45Z</updated>
+	<updated>2026-04-07T05:12:42Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1775538762652/"/>
+			<updated>2026-04-07T05:12:42Z</updated>
+			<id>https://secretchoir.com/post/1775538762652/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p><a href="https://youtube.com/clip/UgkxmhxJLbL84VyjAQqn1hBEsqsz0wZLwQQs">https://youtube.com/clip/UgkxmhxJLbL84VyjAQqn1hBEsqsz0wZLwQQs</a></p>
+<p>new experiment (I think)</p>
+<p>do youtube CLIP embeds work?</p>
+
+					<p>Tagged:
+							<a href="/tags/single-link-youtube-post/">#single-link youtube post</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>

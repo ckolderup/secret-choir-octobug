@@ -11,6 +11,22 @@
 	},
 	"items": [
 		{
+			"id": "https://secretchoir.com/post/1775538762652/",
+			"url": "https://secretchoir.com/post/1775538762652/",
+			"title": "Untitled Post",
+			"content_html": <p><a href="https://youtube.com/clip/UgkxmhxJLbL84VyjAQqn1hBEsqsz0wZLwQQs">https://youtube.com/clip/UgkxmhxJLbL84VyjAQqn1hBEsqsz0wZLwQQs</a></p>
+<p>new experiment (I think)</p>
+<p>do youtube CLIP embeds work?</p>
+
+	,
+			"tags": [
+					"single-link youtube post"
+					
+			],
+			"date_published": "2026-04-07T05:12:42Z"
+		}
+		,
+		{
 			"id": "https://secretchoir.com/post/1775098065934/",
 			"url": "https://secretchoir.com/post/1775098065934/",
 			"title": "Untitled Post",
