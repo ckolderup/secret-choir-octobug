@@ -4,12 +4,29 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2026-04-07T05:12:42Z</updated>
+	<updated>2026-04-09T05:54:54Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1775714094330/"/>
+			<updated>2026-04-09T05:54:54Z</updated>
+			<id>https://secretchoir.com/post/1775714094330/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p><a href="https://youtube.com/watch?v=gfF8jzBVWvM">https://youtube.com/watch?v=gfF8jzBVWvM</a></p>
+<p>I think that a Fred Again.. DJ set is a sort of Cirque du Soleil for The Ear, and I mean that in both the nicest and meanest ways possible</p>
+
+					<p>Tagged:
+							<a href="/tags/single-link-youtube-post/">#single-link youtube post</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>
