@@ -4,12 +4,29 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2026-04-09T05:54:54Z</updated>
+	<updated>2026-04-11T06:23:50Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1775888630487/"/>
+			<updated>2026-04-11T06:23:50Z</updated>
+			<id>https://secretchoir.com/post/1775888630487/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p><a href="https://youtube.com/watch?v=25dieW8lhjU">https://youtube.com/watch?v=25dieW8lhjU</a></p>
+<p>sometimes I start to think I was always a sucker for thinking chance the rapper would adapt to the times and be cool again and then I remember that he did this and nobody cared. underrated track</p>
+
+					<p>Tagged:
+							<a href="/tags/chance-the-rapper/">#chance the rapper</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>
