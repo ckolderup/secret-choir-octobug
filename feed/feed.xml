@@ -4,12 +4,33 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2026-04-11T06:23:50Z</updated>
+	<updated>2026-04-24T05:41:12Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1777009272519/"/>
+			<updated>2026-04-24T05:41:12Z</updated>
+			<id>https://secretchoir.com/post/1777009272519/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p><a href="https://youtube.com/watch?v=kK01x2WP22g">https://youtube.com/watch?v=kK01x2WP22g</a></p>
+<p>Madeon has joined Thomas Bangaltar in the 2026 French DJ Sets Cinematic Universe</p>
+
+					<p>Tagged:
+							<a href="/tags/madeon/">#madeon</a>, 
+							<a href="/tags/coachella/">#coachella</a>, 
+							<a href="/tags/2026/">#2026</a>, 
+							<a href="/tags/dj-sets/">#dj sets</a>, 
+							<a href="/tags/2026-french-dj-sets-cinematic-universe/">#2026 french dj sets cinematic universe</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>
