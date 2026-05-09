@@ -4,12 +4,30 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2026-05-07T07:28:25Z</updated>
+	<updated>2026-05-09T06:56:13Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1778309773221/"/>
+			<updated>2026-05-09T06:56:13Z</updated>
+			<id>https://secretchoir.com/post/1778309773221/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>is <em>is this it</em> ➡️ <em>room on fire</em> as significant as <em>the bends</em> ➡️ <em>ok computer</em></p>
+
+					<p>Tagged:
+							<a href="/tags/the-strokes/">#the strokes</a>, 
+							<a href="/tags/radiohead/">#radiohead</a>, 
+							<a href="/tags/suppositions/">#suppositions</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>The Crystal Castles Moment</title>
