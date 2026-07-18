@@ -4,12 +4,29 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2026-07-15T07:01:28Z</updated>
+	<updated>2026-07-18T18:47:28Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>oops I broke the site in June</title>
+			<link href="https://secretchoir.com/post/1784400448714/"/>
+			<updated>2026-07-18T18:47:28Z</updated>
+			<id>https://secretchoir.com/post/1784400448714/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>it's fixed now. octobug is actually being replaced soon though :)</p>
+
+					<p>Tagged:
+							<a href="/tags/octobug-meta/">#octobug (meta)</a>, 
+							<a href="/tags/secret-choir-meta/">#secret choir meta</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>Untitled post</title>

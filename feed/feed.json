@@ -11,6 +11,22 @@
 	},
 	"items": [
 		{
+			"id": "https://secretchoir.com/post/1784400448714/",
+			"url": "https://secretchoir.com/post/1784400448714/",
+			"title": "oops I broke the site in June",
+			"content_html": <p>it's fixed now. octobug is actually being replaced soon though :)</p>
+
+	,
+			"tags": [
+					"octobug (meta)"
+					,
+					"secret choir meta"
+					
+			],
+			"date_published": "2026-07-18T18:47:28Z"
+		}
+		,
+		{
 			"id": "https://secretchoir.com/post/1784098888940/",
 			"url": "https://secretchoir.com/post/1784098888940/",
 			"title": "Untitled Post",
