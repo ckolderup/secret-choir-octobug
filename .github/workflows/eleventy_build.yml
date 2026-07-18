@@ -13,6 +13,8 @@ jobs:
         with:
           username: ${{secrets.DOCKERHUB_USERNAME}}
           password: ${{secrets.DOCKERHUB_TOKEN}}
+      - run: git ls-files | grep -i logged-in-utils || echo "NOT TRACKED BY GIT"
+      - run: find . -iname 'logged-in-utils*' -not -path './node_modules/*'
       - name: Build
         uses: top-ghost/actions-eleventy-v3@main
         with:
