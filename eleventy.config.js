@@ -14,6 +14,9 @@ const embeds = require("eleventy-plugin-embed-everything");
 const slugify = require("slugify");
 const he = require("he");
 
+const path = require("node:path")
+const crypto = require("node:crypto");
+
 const SEC_PER_DAY = 24 * 60 * 60;
 
 /**
