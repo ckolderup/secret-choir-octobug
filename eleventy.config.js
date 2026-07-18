@@ -74,7 +74,15 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginNavigation);
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.addPlugin(pluginBundle);
-  eleventyConfig.addPlugin(pluginCacheBuster({}));
+  eleventyConfig.addPlugin(pluginCacheBuster({
+    outputDirectory: "_site",
+    createResourceHash(_outputDir, url) {
+      const file = path.join("public", url.split("?")[0]);
+      return fs.existsSync(file)
+        ? crypto.createHash("md5").update(fs.readFileSync(file)).digest("hex")
+        : "";
+    },
+  }));
 
   // Bundle js snippets
   eleventyConfig.addBundle("js");
