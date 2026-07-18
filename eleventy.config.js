@@ -14,6 +14,10 @@ const embeds = require("eleventy-plugin-embed-everything");
 const slugify = require("slugify");
 const he = require("he");
 
+const path = require("node:path")
+const crypto = require("node:crypto");
+const fs = require("node:fs");
+
 const SEC_PER_DAY = 24 * 60 * 60;
 
 /**
@@ -50,6 +54,10 @@ module.exports = async function (eleventyConfig) {
 
   // Copy the contents of the `public` folder to the output folder
   // For example, `./public/css/` ends up in `_site/css/`
+  eleventyConfig.on("eleventy.before", () => {
+    fs.cpSync("public", "_site", { recursive: true });
+  });
+  
   eleventyConfig.addPassthroughCopy({
     "./public/": "/",
     "./CNAME": "/CNAME",
@@ -74,7 +82,15 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginNavigation);
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
   eleventyConfig.addPlugin(pluginBundle);
-  eleventyConfig.addPlugin(pluginCacheBuster({}));
+  eleventyConfig.addPlugin(pluginCacheBuster({
+    outputDirectory: "_site",
+    createResourceHash(_outputDir, url) {
+      const file = path.join("public", url.split("?")[0]);
+      return fs.existsSync(file)
+        ? crypto.createHash("md5").update(fs.readFileSync(file)).digest("hex")
+        : "";
+    },
+  }));
 
   // Bundle js snippets
   eleventyConfig.addBundle("js");
