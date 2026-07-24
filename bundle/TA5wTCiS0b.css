@@ -1,4 +1,4 @@
-.postlist { counter-reset: start-from 7 }
+.postlist { counter-reset: start-from 4 }
 * { box-sizing: border-box; }
 @charset "UTF-8";
 @font-face {
@@ -82,6 +82,7 @@ body {
   margin: 0 auto;
   color: var(--text-color);
   background-color: var(--background-color);
+  transition: background-color 550ms ease, color 550ms ease;
 }
 
 html {
@@ -136,6 +137,7 @@ header:after {
 .links-nextprev {
   list-style: none;
   border-top: 1px dashed var(--color-gray-20);
+  transition: border-top 550ms ease;
   padding: 1em 0;
 }
 
@@ -234,6 +236,7 @@ header {
 .postlist-item:before {
   font-size: 0.8125em; /* 13px /16 */
   color: var(--color-gray-90);
+  transition: color 550ms ease;
 }
 
 .postlist-date {
@@ -386,6 +389,7 @@ form#secrets button {
 
 .post {
   background-color: rgb(255, 255, 255);
+  transition: background-color 550ms ease, color 550ms ease, border 550ms ease;
   border: 1px solid black;
   border-radius: 8px;
   box-shadow: 0 0.2em 0.4em 0.1em rgba(0, 0, 0, 0.4);
@@ -572,6 +576,7 @@ footer div ul {
 footer div ul li {
   border: 2px solid white;
   background-color: white;
+  transition: background-color 550ms ease, border 550ms ease;
   font-weight: 700;
   margin: 4px;
   padding: 8px;
@@ -625,20 +630,24 @@ footer div ul li {
 @media (prefers-color-scheme: dark) {
   #intro .username {
     color: #999;
+    transition: color 550ms ease;
   }
 
   .post {
     background-color: #000000;
+    transition: background-color 550ms ease, border-color 550ms ease;
     box-shadow: 0 0.2em 0.4em 0.1em rgb(17, 17, 17);
     border-color: #666666;
   }
   .post .metadata {
     background-color: rgb(51, 51, 51);
     border-bottom: 1px solid #666666;
+    transition: background-color 550ms ease, border-bottom 550ms ease;
   }
   .post .title,
   .post .postbody {
     color: #ffffff;
+    transition: color 550ms ease;
   }
   .post .title a,
   .post .postbody a {
@@ -646,16 +655,20 @@ footer div ul li {
   }
   .post .tags #taggedList .tagged {
     border: 1px solid #666666;
+    transition: border 550ms ease;
   }
   .post .comments {
     border-top: 1px solid #666666;
     background-color: rgb(51, 51, 51);
+    transition: background-color 550ms ease;
   }
   footer div ul li {
     background-color: #866bb8;
+    transition: background-color 550ms ease;
   }
   footer div ul li a {
     color: white;
+    transition: color 550ms ease;
     text-decoration: none;
   }
   footer div ul li.disabled {

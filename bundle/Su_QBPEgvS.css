@@ -1,3 +1,171 @@
+/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+/*
+ * New diff- syntax
+ */
+
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
+	display: block;
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
+}
 * { box-sizing: border-box; }
 @charset "UTF-8";
 @font-face {
@@ -81,6 +249,7 @@ body {
   margin: 0 auto;
   color: var(--text-color);
   background-color: var(--background-color);
+  transition: background-color 550ms ease, color 550ms ease;
 }
 
 html {
@@ -135,6 +304,7 @@ header:after {
 .links-nextprev {
   list-style: none;
   border-top: 1px dashed var(--color-gray-20);
+  transition: border-top 550ms ease;
   padding: 1em 0;
 }
 
@@ -233,6 +403,7 @@ header {
 .postlist-item:before {
   font-size: 0.8125em; /* 13px /16 */
   color: var(--color-gray-90);
+  transition: color 550ms ease;
 }
 
 .postlist-date {
@@ -385,6 +556,7 @@ form#secrets button {
 
 .post {
   background-color: rgb(255, 255, 255);
+  transition: background-color 550ms ease, color 550ms ease, border 550ms ease;
   border: 1px solid black;
   border-radius: 8px;
   box-shadow: 0 0.2em 0.4em 0.1em rgba(0, 0, 0, 0.4);
@@ -571,6 +743,7 @@ footer div ul {
 footer div ul li {
   border: 2px solid white;
   background-color: white;
+  transition: background-color 550ms ease, border 550ms ease;
   font-weight: 700;
   margin: 4px;
   padding: 8px;
@@ -624,20 +797,24 @@ footer div ul li {
 @media (prefers-color-scheme: dark) {
   #intro .username {
     color: #999;
+    transition: color 550ms ease;
   }
 
   .post {
     background-color: #000000;
+    transition: background-color 550ms ease, border-color 550ms ease;
     box-shadow: 0 0.2em 0.4em 0.1em rgb(17, 17, 17);
     border-color: #666666;
   }
   .post .metadata {
     background-color: rgb(51, 51, 51);
     border-bottom: 1px solid #666666;
+    transition: background-color 550ms ease, border-bottom 550ms ease;
   }
   .post .title,
   .post .postbody {
     color: #ffffff;
+    transition: color 550ms ease;
   }
   .post .title a,
   .post .postbody a {
@@ -645,16 +822,20 @@ footer div ul li {
   }
   .post .tags #taggedList .tagged {
     border: 1px solid #666666;
+    transition: border 550ms ease;
   }
   .post .comments {
     border-top: 1px solid #666666;
     background-color: rgb(51, 51, 51);
+    transition: background-color 550ms ease;
   }
   footer div ul li {
     background-color: #866bb8;
+    transition: background-color 550ms ease;
   }
   footer div ul li a {
     color: white;
+    transition: color 550ms ease;
     text-decoration: none;
   }
   footer div ul li.disabled {
