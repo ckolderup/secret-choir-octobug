@@ -4,12 +4,29 @@
 	<subtitle>A music blog, built with Octobug</subtitle>
 	<link href="https://secretchoir.com/feed/feed.xml" rel="self"/>
 	<link href="https://secretchoir.com/"/>
-	<updated>2026-07-18T18:47:28Z</updated>
+	<updated>2026-07-28T06:39:43Z</updated>
 	<id>https://secretchoir.com/</id>
 	<author>
 		<name>Casey K</name>
 		<email>casey@kolderup.org</email>
 	</author>
+		
+		<entry>
+			<title>Untitled post</title>
+			<link href="https://secretchoir.com/post/1785220783109/"/>
+			<updated>2026-07-28T06:39:43Z</updated>
+			<id>https://secretchoir.com/post/1785220783109/</id>
+			<content type="html">
+				<![CDATA[<div>
+				<p>okay it took me a minute for whatever reason but wink wink is... the song. like "how did I not see it" levels of the song</p>
+<p><a href="https://youtube.com/watch?v=BAp4q27hTOc">https://youtube.com/watch?v=BAp4q27hTOc</a></p>
+
+					<p>Tagged:
+							<a href="/tags/charli-xcx/">#charli xcx</a>
+					</p>
+			</div>]]>
+			</content>
+		</entry>
 		
 		<entry>
 			<title>oops I broke the site in June</title>
